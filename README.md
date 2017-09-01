@@ -17,6 +17,8 @@ The following scripts are included (copy them to plugins/WorldEdit/craftscripts/
 | [`roof.js`](roof.js)	| `<block>` | Builds a pyramid roof over your selection. |
 | [`deletegpclaims.js`](deletegpclaims.js)	|  | Deletes all GriefPrevention claims in your selection |
 
+Feel free to add your own scripts here.
+
 #### Running scripts
  - `/cs <script name> [args...]`    
  - `/.s [args...]` (re-executes last used script)    
