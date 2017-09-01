@@ -15,7 +15,7 @@ The following scripts are included (copy them to plugins/WorldEdit/craftscripts/
 | [`draw.js`](draw.js) | `<image-file> [v]` | Renders an image file in-game with colored cloth blocks. <br>Use the v parameter to draw it vertically. <br>Image file must be placed into a plugins/WorldEdit/drawings/ directory. |
 | [`quickshot.js`](quickshot.js) | `<note1> [note2] ...` | Creates a basic set of note blocks <br>linked together with Redstone. <br>Example usage: quickshot.js 1a# 1c 2f |
 | [`roof.js`](roof.js)	| `<block>` | Builds a pyramid roof over your selection. |
-| [`deletegpclaims.js`](deleteclaims.js)	|  | Deletes all GriefPrevention claims in your selection |
+| [`deletegpclaims.js`](deletegpclaims.js)	|  | Deletes all GriefPrevention claims in your selection |
 
 #### Running scripts
  - `/cs <script name> [args...]`    
