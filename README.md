@@ -18,7 +18,7 @@ The following scripts are included (copy them to plugins/WorldEdit/craftscripts/
 | [`deletegpclaims.js`](deletegpclaims.js)	|  | Deletes all GriefPrevention claims in your selection |
 
 > Feel free to add your own scripts here.    
-You can also find more scripts [here](forum.enginehub.org/forums/craftscripts.6/?order=view_count)
+You can also find more scripts [here](http://forum.enginehub.org/forums/craftscripts.6/?order=view_count)
 
 #### Running scripts
  - `/cs <script name> [args...]`    
