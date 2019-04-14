@@ -10,12 +10,12 @@ The following scripts are included (copy them to plugins/WorldEdit/craftscripts/
 
 | Filename |    Parameters     | Description |
 | --- | --- | --- |
-| [`build.js`](build.js)	| `<various>` | Various tools: [see here](http://inhaze.net/resources/build_commands/#commands). |
-| [`maze.js`](maze.js) | `<block> [width] [length]` | Generates a maze with wall height<br> of two made out of the specified block. |
-| [`draw.js`](draw.js) | `<image-file> [v]` | Renders an image file in-game with colored cloth blocks. <br>Use the v parameter to draw it vertically. <br>Image file must be placed into a plugins/WorldEdit/drawings/ directory. |
-| [`quickshot.js`](quickshot.js) | `<note1> [note2] ...` | Creates a basic set of note blocks <br>linked together with Redstone. <br>Example usage: quickshot.js 1a# 1c 2f |
-| [`roof.js`](roof.js)	| `<block>` | Builds a pyramid roof over your selection. |
-| [`deletegpclaims.js`](deletegpclaims.js)	|  | Deletes all GriefPrevention claims in your selection |
+| `build.js`	| `<various>` | Various tools: [see here](http://inhaze.net/resources/build_commands/#commands). |
+| `maze.js` | `<block> [width] [length]` | Generates a maze with wall height<br> of two made out of the specified block. |
+| `draw.js` | `<image-file> [v]` | Renders an image file in-game with colored cloth blocks. <br>Use the v parameter to draw it vertically. <br>Image file must be placed into a plugins/WorldEdit/drawings/ directory. |
+| `quickshot.js` | `<note1> [note2] ...` | Creates a basic set of note blocks <br>linked together with Redstone. <br>Example usage: quickshot.js 1a# 1c 2f |
+| `roof.js`	| `<block>` | Builds a pyramid roof over your selection. |
+| `deletegpclaims.js`	|  | Deletes all GriefPrevention claims in your selection |
 
 > Feel free to add your own scripts here.    
 You can also find more scripts [here](http://forum.enginehub.org/forums/craftscripts.6/?order=view_count)
